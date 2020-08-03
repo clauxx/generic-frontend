@@ -6,6 +6,8 @@ export enum ServiceCredentials {
 
 export enum ShareCredentials {
   Email = 'email',
+  Name = 'name',
+  Phone = 'phone',
 }
 
 export enum InteractionType {
